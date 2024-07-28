@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### SMU Master's class of 2023
+
+I have experience in:
+- Web development (HTML/CSS/JS)
+- Data Science (Python, CASL)
+- Android development (Java)
+- Computer Programs/Scripts (Python, Java, Visual Basic) 
+- Quantum Computing (Qiskit)
+
+Outside of computing, I also have qualifications in engineering & marketing. 
