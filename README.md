@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### SMU Master's class of 2023
+### Singapore Management University Master's class of 2023
 
 I have experience in:
 - Web development (HTML/CSS/JS)
