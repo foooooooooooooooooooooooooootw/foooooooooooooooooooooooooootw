@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Singapore Management University Master's class of 2023
+### Singapore Management University Master of IT in Business Fintech & Analytics (MITB-FTA)
 
 I have experience in:
 - Web development (HTML/CSS/JS)
@@ -36,3 +36,7 @@ Game related programs/scripts:
 - ☮️[Depoliticize Destiny](https://github.com/foooooooooooooooooooooooooootw/Depoliticize-Destiny), a browser plugin to remove certain things from destiny related websites.
 - ☢️[Fallout76 ini tweaker](https://github.com/foooooooooooooooooooooooooootw/Fallout-76-ini-tweak-scipt), a commandline script to change settings without launching Fallout76.
 - 🔫[R6 Siege Server Changer](https://github.com/foooooooooooooooooooooooooootw/Rainbow-Six-Siege-Server-Changer), a commandline script to change servers for rainbow six siege.
+
+Datasets I made:
+- 🎲[Singapore Pools Dataset](https://github.com/foooooooooooooooooooooooooootw/Singapore-Pools-Dataset), a dataset with every winning 4D/Toto number I could get my hands on.
+- 💠[Pale Heart Drop Rates Dataset](https://github.com/foooooooooooooooooooooooooootw/Pale-Heart-Drop-Rates-Dataset), a dataset I started because I suspected that drop rates were skewed. I was [proven right later](https://www.bungie.net/7/en/News/Article/dev_insights_perk_rng_issue). 
