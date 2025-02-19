@@ -24,7 +24,9 @@ I have experience in:
 - Computer Programs/Scripts (Python, Java, Visual Basic) 
 - Quantum Computing (Qiskit)
 
-Outside of computing, I also have qualifications in engineering & marketing. 
+💬 Outside of computing, I also have qualifications in engineering & marketing. 
+
+🔭 I’m currently working on an algorithm for stock/forex trend+price prediction, among other things. 
 
 My favourite programs/scripts now:
 - 💬[Python Lan Chat](https://github.com/foooooooooooooooooooooooooootw/Python-LAN-Chat), a script with GUI that sends files images and messages to everyone on LAN.
