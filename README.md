@@ -31,8 +31,8 @@ I have experience in:
 My favourite programs/scripts now:
 - 💬[Python Lan Chat](https://github.com/foooooooooooooooooooooooooootw/Python-LAN-Chat), a script with GUI that sends files images and messages to everyone on LAN.
 - 🎼[Python Music Transposer](https://github.com/foooooooooooooooooooooooooootw/Python-Music-Transposer), a simple music transposition tool with GUI.
-- 🖼️[Simple Image Converter](https://github.com/foooooooooooooooooooooooooootw/simple-image-converter), a simple multithreaded program to convert images, especially HEIC & RAW files.
-- 📂[LAN File Transfer](https://github.com/foooooooooooooooooooooooooootw/LAN-File-Transfer), a tool to transfer files over LAN using TCP.
+- 🖼️[Simple Image Converter](https://github.com/foooooooooooooooooooooooooootw/simple-image-converter), a simple program to convert, resize, compress and upscale images, with wide support for files including HEIC & RAW.
+- 😶‍🌫️[DeepMosaicsPlus](https://github.com/foooooooooooooooooooooooooootw/DeepMosaicsPlus), a tool originally by HypoX64 to remove mosaic censorship, which I made compatible with directml so acceleration can be done with any GPU. Optimization is currently underway.
 
 Game related programs/scripts:
 - ☮️[Depoliticize Destiny](https://github.com/foooooooooooooooooooooooooootw/Depoliticize-Destiny), a browser plugin to remove certain things from destiny related websites.
