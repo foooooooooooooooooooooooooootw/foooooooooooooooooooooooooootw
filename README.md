@@ -29,7 +29,7 @@ I have experience in:
 🔭 I’m currently working on an algorithm for stock/forex trend+price prediction, among other things. 
 
 My favourite programs/scripts now:
-- 💬[Edge]([https://github.com/foooooooooooooooooooooooooootw/Python-LAN-Chat](https://github.com/foooooooooooooooooooooooooootw/Edge)), an electron P2P chat & file transfer app.
+- 💬 [Edge](https://github.com/foooooooooooooooooooooooooootw/Edge), an electron P2P chat & file transfer app.
 - 😶‍🌫️[DeepMosaicsPlus](https://github.com/foooooooooooooooooooooooooootw/DeepMosaicsPlus), a tool originally by HypoX64 to remove mosaic censorship, which I made compatible with directml so acceleration can be done with any GPU. Optimization is currently underway.
 - 🎼[Python Music Transposer](https://github.com/foooooooooooooooooooooooooootw/Python-Music-Transposer), a simple music transposition tool with GUI.
 - 🖼️[Simple Image Converter](https://github.com/foooooooooooooooooooooooooootw/simple-image-converter), a simple program to convert, resize, compress and upscale images, with wide support for files including HEIC & RAW.
