@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Singapore Management University Master of IT in Business Fintech & Analytics (MITB-FTA)
 
 I have experience in:
-- Web development (HTML/CSS/JS)
+- Web development (Electron, HTML/CSS/JS)
 - Data Science (Python, CASL)
 - Android development (Java)
 - Computer Programs/Scripts (Python, Java, Visual Basic) 
