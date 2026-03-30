@@ -12,17 +12,12 @@ Features:
 • LAN peer discovery  
 • Internet P2P Transfers via UPnP
 • Encrypted peer communication using TLS fingerprints  
-• Built-in torrent client supporting video streaming while downloading
 
 ---
 
-### Financial Time-Series Forecasting System
-Machine learning system for predicting stock and forex trends.
+### [SORA Analysis](https://github.com/foooooooooooooooooooooooooootw/sora-analysis), a consolidation and analysis of datasets relating to the national interest rate
 
-Technologies:
-• LSTM, SARIMAX, SVM, Prophet ensemble
-• Feature engineering using MACD, stochastic oscillator, GARCH volatility
-• Visualization with Plotly dashboards
+A data-driven exploration of the Singapore Overnight Rate Average (SORA), focusing on understanding underlying mechanics.Future possibility of machine learning for predicting the interest rate movement
 
 ## Datasets
 
