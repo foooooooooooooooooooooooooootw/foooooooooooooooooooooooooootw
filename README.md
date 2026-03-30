@@ -8,16 +8,18 @@ I am a developer and data enthusiast with experience in machine learning, financ
 ### [Edge](https://github.com/foooooooooooooooooooooooooootw/Edge), a Peer-to-Peer File Transfer & Chat Platform
 A decentralized LAN and internet file sharing application.
 
-Features:
-• LAN peer discovery  
-• Internet P2P Transfers via UPnP
-• Encrypted peer communication using TLS fingerprints  
+Features:\
+• LAN peer discovery\
+• Internet P2P Transfers via UPnP\
+• Encrypted peer communication using TLS fingerprints
 
 ---
 
 ### [SORA Analysis](https://github.com/foooooooooooooooooooooooooootw/sora-analysis), a consolidation and analysis of datasets relating to the national interest rate
 
-A data-driven exploration of the Singapore Overnight Rate Average (SORA), focusing on understanding underlying mechanics.Future possibility of machine learning for predicting the interest rate movement
+A data-driven exploration of the Singapore Overnight Rate Average (SORA), focusing on understanding underlying mechanics.
+
+Future possibility of machine learning for predicting the interest rate movement
 
 ## Datasets
 
