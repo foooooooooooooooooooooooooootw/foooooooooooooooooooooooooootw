@@ -12,6 +12,7 @@ A decentralized LAN and internet file sharing application.
 Features:\
 • LAN peer discovery\
 • Internet P2P Transfers via UPnP\
+• Share entire folders without the speed hit you normally get!\
 • Encrypted peer communication using TLS fingerprints
 
 ---
