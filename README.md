@@ -6,12 +6,25 @@ I am a developer and data enthusiast with experience in machine learning, financ
 ## Featured Projects
 
 ### [Edge](https://github.com/foooooooooooooooooooooooooootw/Edge), a Peer-to-Peer File Transfer & Chat Platform
+
 A decentralized LAN and internet file sharing application.
 
 Features:\
 • LAN peer discovery\
 • Internet P2P Transfers via UPnP\
 • Encrypted peer communication using TLS fingerprints
+
+---
+
+### [Clovr](https://github.com/foooooooooooooooooooooooooootw/Clovr), Clover but modernized
+
+An app for browsing imageboards. Many things have changed and the last commit was 7 years ago so I thought I'd update some parts and fix things that have been bugging me over the years. Thanks floens! 
+
+Upgrades: \
+• Upgraded from Exoplayer2 to Media3\
+• Compiled libraries for VP9 so they can play now\
+• Hold to speed up videos\
+• ... and more soon! 
 
 ---
 
