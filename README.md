@@ -69,7 +69,6 @@ Other
 Electron, Qiskit
 
 
-My personal projects:
-- 💬 [Edge](https://github.com/foooooooooooooooooooooooooootw/Edge), an electron P2P chat & file transfer app.
+My other personal projects:
 - 🎼[Python Music Transposer](https://github.com/foooooooooooooooooooooooooootw/Python-Music-Transposer), a simple music transposition tool with GUI.
 - 🖼️[Simple Image Converter](https://github.com/foooooooooooooooooooooooooootw/simple-image-converter), a simple program to convert, resize, compress and upscale images, with wide support for files including HEIC & RAW.
