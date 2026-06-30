@@ -17,6 +17,17 @@ Features:\
 
 ---
 
+### [DeepMosaicsPlus](https://github.com/foooooooooooooooooooooooooootw/DeepMosaicsPlus), Decensor videos with any GPU
+
+A tool originally by HypoX64 to remove mosaic censorship, which I made compatible with directml so acceleration can be done with any GPU. Also made a nice UI to show decensorship in real time.
+
+Features:\
+• Any GPU can be used via Window's directml but it will fall back to CUDA if an Nvidia GPU is used\
+• Modern video-editor style GUI that exposes most options available from CLI\
+• Highly modular; any .pth model can be used
+
+---
+
 ### [Clovr](https://github.com/foooooooooooooooooooooooooootw/Clovr), Clover but modernized
 
 An app for browsing imageboards. Many things have changed and the last commit was 7 years ago so I thought I'd update some parts and fix things that have been bugging me over the years. Thanks floens! 
@@ -60,6 +71,5 @@ Electron, Qiskit
 
 My personal projects:
 - 💬 [Edge](https://github.com/foooooooooooooooooooooooooootw/Edge), an electron P2P chat & file transfer app.
-- 😶‍🌫️[DeepMosaicsPlus](https://github.com/foooooooooooooooooooooooooootw/DeepMosaicsPlus), a tool originally by HypoX64 to remove mosaic censorship, which I made compatible with directml so acceleration can be done with any GPU. Optimization is currently underway.
 - 🎼[Python Music Transposer](https://github.com/foooooooooooooooooooooooooootw/Python-Music-Transposer), a simple music transposition tool with GUI.
 - 🖼️[Simple Image Converter](https://github.com/foooooooooooooooooooooooooootw/simple-image-converter), a simple program to convert, resize, compress and upscale images, with wide support for files including HEIC & RAW.
